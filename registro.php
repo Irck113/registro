@@ -14,7 +14,7 @@
 		<p>El siguiente formulario sirve para registrarse en el sistema</p>
 		</br>
 		
-		<div>
+		<div class = "formulario">
 		<form method = "post">
 			<legend>Formulario de registro</legend>
 			<fieldset>
